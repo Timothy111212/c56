@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+}
+img{
+    height: 400px;
+    width: 750px;
+}
